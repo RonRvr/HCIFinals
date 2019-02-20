@@ -1,0 +1,15 @@
+*{
+	color: black;
+}
+form{
+	text-align: left;
+    background-color: red;
+    margin: 0 auto;
+    width: fit-content;
+    height: auto;
+    overflow:hidden;
+    position: relative;
+    opacity: .8;
+    color:white;
+    border: 4px dotted black;
+}
