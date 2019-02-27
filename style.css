@@ -1,15 +1,120 @@
 *{
 	color: black;
 }
-form{
-	text-align: left;
+body{
+    border: 5px solid black;
+}
+.title{
+    font-size: 60px;
+    text-shadow: 0px 0px 10px;
+}
+.header{
+	text-align: center;
     background-color: red;
     margin: 0 auto;
-    width: fit-content;
+    margin-left: 0px;
+    width: 1212px;
     height: auto;
     overflow:hidden;
     position: relative;
     opacity: .8;
     color:white;
-    border: 4px dotted black;
+    border: 4px solid red;
 }
+.holder1{
+    background-color: #FFE6E5;
+    margin-top: 40px;
+    margin-right: 50px;
+    position: ;
+    width: 25%;
+    float: right;
+    padding: 0px;
+    height: 200px;
+    border: 2px solid black;
+}
+.head1{
+    text-align: center;
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.subs1{
+    background-color: red;
+    width: 200px;
+    height: 35px;
+    padding: 10px;
+    margin-left: 50px;
+    text-align: center;
+    box-shadow: 5px 5px 10px;
+}
+.holder2{
+    background-color: #FFE6E5;
+    margin-top: 40px;
+    margin-left: 10px;
+    position: relative;
+    width: 25%;
+    float: right;
+    padding: 0px;
+    height: 200px;
+    border: 2px solid black;
+}
+.head2{
+    text-align: center;
+    padding-top: 10px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.subs2{
+    margin: 0px;
+    padding-right: 40px;
+    padding-left: 100px;
+    text-align: left;
+    cursor: pointer;
+    font-size: 20px;
+}
+.mainImage{
+    background-image: url('mainImage.jpg');
+    background-repeat: no-repeat;
+    background-size: 320px;
+    width: 320px;
+    height: 310px;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 50px;
+}
+.clickable1{
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 560px;
+    border-radius: 10px;
+    float: left;
+    cursor: pointer;
+}
+.clickable2{
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 20px;
+    border-radius: 10px;
+    float: left;
+    cursor: pointer;
+}
+.clickable3{
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 20px;
+    border-radius: 10px;
+    float: left;
+    cursor: pointer;
+}
+.clickable4{
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 20px;
+    border-radius: 10px;
+    float: left;
+    cursor: pointer;
+}
+
