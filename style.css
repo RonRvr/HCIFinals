@@ -13,7 +13,7 @@ body{
     background-color: red;
     margin: 0 auto;
     margin-left: 0px;
-    width: 1212px;
+    width: 1195px;
     height: auto;
     overflow:hidden;
     position: relative;
@@ -118,7 +118,6 @@ body{
     cursor: pointer;
 }
 .clickable5{
-    margin-top: 75px;
     margin-right: 10px;
     margin-left: 40px;
     float: left;
@@ -138,4 +137,27 @@ body{
     border: 10px double black;
     padding: 0px;
     float: right;
+}
+footer{
+    margin-top: 150px;
+    margin-right: 10px;
+    margin-left: 0px;
+    padding-top: 0px;
+    width: 1180px;
+    height: 50px;
+    background-color: gray;
+    border: 10px solid gray;
+}
+h2{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.ex2{
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+a.ex2:hover, a.ex2:active{
+  font-size: 150%;
 }
