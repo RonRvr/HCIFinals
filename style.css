@@ -124,7 +124,7 @@ body{
     cursor: pointer;
 }
 #intro0{
-    margin: 20px 20px 20px 20px;
+    margin: 20px 20px;
     width: 460px;
     height: 260px;
     border: 5px solid black;
@@ -139,25 +139,35 @@ body{
     float: right;
 }
 footer{
-    margin-top: 150px;
-    margin-right: 10px;
+    margin-top: 50px;
+    margin-right: 0px;
     margin-left: 0px;
     padding-top: 0px;
     width: 1180px;
-    height: 50px;
+    height: 20px;
     background-color: gray;
     border: 10px solid gray;
-}
-h2{
-    margin-top: 0px;
-    padding-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 .ex2{
     margin-top: 0px;
-    margin-bottom: 50px;
-    padding-bottom: 10px;
+    padding: 5px 5px 5px 5px;
     font-size: 20px;
+    color:white;
+    border: 2px solid #2D2D2D;
+    text-decoration: none;
+    margin-right: 5px;
 }
-a.ex2:hover, a.ex2:active{
-  font-size: 150%;
+a.ex2:hover{
+  width: 200px;
+  color: white;
+  background-color: #2D2D2D;
+}
+.ex3{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+a.ex3:hover{
+  color: red;
 }
