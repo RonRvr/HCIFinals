@@ -2,6 +2,7 @@
 	color: black;
 }
 body{
+    margin: 0px;
     border: 5px solid black;
 }
 .title{
@@ -13,7 +14,7 @@ body{
     background-color: red;
     margin: 0 auto;
     margin-left: 0px;
-    width: 1195px;
+    width: 1210px;
     height: auto;
     overflow:hidden;
     position: relative;
@@ -143,7 +144,7 @@ footer{
     margin-right: 0px;
     margin-left: 0px;
     padding-top: 0px;
-    width: 1180px;
+    width: 1210px;
     height: 20px;
     background-color: gray;
     border: 10px solid gray;

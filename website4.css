@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    overflow: ;
+}
+
+canvas {
+    background-image: radial-gradient(#666, #333);
+}
+
+#instructions {
+    position: absolute;
+    color: #fff;
+    bottom: 0;
+    padding-bottom: 6px;
+    font-family: sans-serif;
+    width: 100%;
+    text-align: center;
+    pointer-events: none;
+}
+footer{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    width: 1210px;
+    height: 20px;
+    background-color: gray;
+    border: 10px solid gray;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.ex2{
+    margin-top: 0px;
+    padding: 5px 5px 5px 5px;
+    font-size: 20px;
+    color:white;
+    border: 2px solid #2D2D2D;
+    text-decoration: none;
+    margin-right: 5px;
+}
+a.ex2:hover{
+  width: 200px;
+  color: white;
+  background-color: #2D2D2D;
+}
+.ex3{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+a.ex3:hover{
+  color: red;
+}
